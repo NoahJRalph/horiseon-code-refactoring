@@ -1,2 +1,2 @@
 # module-1-challenge
-UoO Full-stack bootcamp development challenge for Module 1.
+UoO edX Full-stack bootcamp development challenge for Module 1.
