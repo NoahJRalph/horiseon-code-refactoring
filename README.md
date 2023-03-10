@@ -1,4 +1,4 @@
-# 01 HTML, CSS, and Git: Code Refactor
+# Module-01 HTML, CSS, and Git: Code Refactor
 
 ## Description
 
